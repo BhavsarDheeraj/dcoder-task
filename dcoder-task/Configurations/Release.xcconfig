@@ -1,0 +1,12 @@
+//
+//  Release.xcconfig
+//  dcoder-task
+//
+//  Created by Dheeraj on 19/01/20.
+//  Copyright © 2020 Dheeraj Bhavsar. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+HOST_URL = dcoder.tech
