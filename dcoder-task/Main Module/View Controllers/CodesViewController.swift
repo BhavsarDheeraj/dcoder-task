@@ -79,7 +79,7 @@ extension CodesViewController: UITableViewDataSource {
     
 }
 
-//MARK:- TableView Delegate
+//MARK:- Popup View Controller Delegate
 extension CodesViewController: PopupViewControllerDelegate {
     
     func didSelectItem() {
